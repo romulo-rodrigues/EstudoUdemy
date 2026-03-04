@@ -24,6 +24,6 @@ public class Usuario {
     }
 
     /*Pode ser gerado o HASCODE e o EQUALS através do ATALHO da IDE
-    Botão direito > generate ou alt + shift > equals and hascode!
+    Botão direito > generate ou alt + shift > equals and hascode!!
      */
 }

@@ -12,7 +12,7 @@ public class Equals {
         u2.nome = "Pedro Sa";
         u2.email = "pedro.silva@ezemail.com.br";
 
-        // Comparação (False)
+        // Comparação (False).
         System.out.println(u1 == u2);
         System.out.println(u1.equals(u2));
         System.out.println(u2.equals(u1));
@@ -22,7 +22,7 @@ public class Equals {
         System.out.println(u2.hashCode());
 
         /*
-        Comparação true
+        Comparação true:
         System.out.println(u1 == u1);
         System.out.println(u1.equals(u1));
          */

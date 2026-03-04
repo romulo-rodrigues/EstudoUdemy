@@ -29,7 +29,7 @@ public class Matriz {
         }
 
         double media = total / (qtdAlunos * qtdNotas);
-        System.out.println("A média da turma é " + media);
+        System.out.println("A média da turma é: " + media);
 
         for (double[] notasAluno : notasTurma){
             System.out.println(Arrays.toString(notasAluno));
