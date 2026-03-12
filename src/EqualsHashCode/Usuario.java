@@ -1,4 +1,4 @@
-package EqualsHasCode;
+package EqualsHashCode;
 
 public class Usuario {
     String nome;
