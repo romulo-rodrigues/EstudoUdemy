@@ -1,4 +1,4 @@
-package EqualsHasCode;
+package EqualsHashCode;
 
 import java.util.Date;
 
