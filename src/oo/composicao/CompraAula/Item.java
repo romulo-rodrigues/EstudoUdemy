@@ -1,4 +1,4 @@
-package oo.composicao;
+package oo.composicao.CompraAula;
 
 public class Item {
 
