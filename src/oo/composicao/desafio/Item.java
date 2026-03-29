@@ -7,11 +7,11 @@ public class Item {
     private Produto produto;
     private double preco;
 
-    public Item(int idItem, int quantidade, Produto produto, double preco) {
+    public Item(int idItem, int quantidade, Produto produto) {
         this.idItem = idItem;
         this.quantidade = quantidade;
         this.produto = produto;
-        this.preco = preco;
+        this.preco = produto.getPrecoProd();
     }
 
     public int getIdItem() {
